@@ -1,8 +1,17 @@
 # CRUDphp
-Technologies
--PHP
--HTML
--Boostrap
+✍️It´s a CRUD (Create, read, update and delete)🚀
+
+🎨In this project I used🎨
+
+💻 HTML 5
+
+💻 PHP
+
+💻 CSS3 - Boostrap
+
+
+👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾
+
 ![image](https://user-images.githubusercontent.com/67123399/133915977-69ebfaef-1587-495f-bbbe-85b311efa9ed.png)
 ![image](https://user-images.githubusercontent.com/67123399/133915980-68b72f40-4518-4c9a-a187-1dd022569f96.png)
 ![image](https://user-images.githubusercontent.com/67123399/133915983-d6ceb9d5-1869-4e32-9124-8a9a93b85a04.png)
