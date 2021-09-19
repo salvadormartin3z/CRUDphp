@@ -1,13 +1,15 @@
 <?php
 session_start();
-//Remember delete the password
+
 $mysqli = new mysqli('localhost', 'root', '', 'crudphp')  or die(mysqli_error($mysqli));
+
 
 $id = 0;
 $update = false;
 $name = '';
 $location = '';
 
+//Create
 if (isset($_POST['save'])) {
     $name = $_POST['name'];
     $location = $_POST['location'];
@@ -20,6 +22,7 @@ if (isset($_POST['save'])) {
     header("location: index.php");
 }
 
+//Delete
 if (isset($_GET['delete'])){
     $id = $_GET['delete'];
     $mysqli->query("DELETE FROM data WHERE id=$id") or die($mysqli->error());
@@ -30,6 +33,7 @@ if (isset($_GET['delete'])){
     header("location: index.php");
 }
 
+//Update
 if(isset($_GET['edit'])){
     $id = $_GET['edit'];
     $update = true;
@@ -40,6 +44,7 @@ if(isset($_GET['edit'])){
         $location = $row['location'];
     }
 }
+
 
 if(isset($_POST['update'])){
     $id = $_POST['id'];
