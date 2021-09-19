@@ -18,4 +18,5 @@
 ![image](https://user-images.githubusercontent.com/67123399/133915984-1096918e-4f91-49c0-b667-5934149064a9.png)
 ![image](https://user-images.githubusercontent.com/67123399/133915986-9ba5b617-a317-4954-bc46-2a8a5d2f95be.png)
 ![image](https://user-images.githubusercontent.com/67123399/133915988-8eb400c4-4edb-442b-a7f5-887f4430fb10.png)
+DELETE
 ![image](https://user-images.githubusercontent.com/67123399/133915990-e691602f-4e11-496e-a686-bc3058e5da4f.png)
